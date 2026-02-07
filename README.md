@@ -4,7 +4,7 @@ Im: Junior PL/SQL Oracle Developer & Angular Developer + Mobile App / Flutter pa
 
 What does a JavaScript developer have in his tea? : Syntactic sugar
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaudiusz-sobczak-48538725a/)
 
 # 💻 Tech Stack:
