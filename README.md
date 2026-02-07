@@ -1,6 +1,9 @@
 # 💫 About Me:
-Hey, I'm Klaudiusz. <br>I've tried a large amount different things in my life. Many of them were interesting <br>experience. But only few of them stay with me to this day:<br>- motorcycles<br>- detailing<br>- codding<br><br>I can do any of these all day long - and I love it!<br><br>🌱 I’m currently learning<br>    - React.js<br><br>🔭 I’m currently working on<br>    - Website for my podcasts, where people can find and listen to them<br><br>⚡ Fun fact<br>    - At studies we tried each of most popular languages/libraries/databases/frameworks.<br>    For example: PHP, Java, .net, SQL, SWIFT, Android. <br>    At first, I didn't like that we learn something new every day <br>    instead of learning one thing properly.<br>    But because of that I know that FrontEnd is the best I could choose<br>
+Hey, I'm Klaudiusz. <br>
+Im: Junior PL/SQL Oracle Developer & Angular Developer
++ Mobile App / Flutter pasionate
 
+What does a JavaScript developer have in his tea? : Syntactic sugar
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/klaudiusz-sobczak-48538725a/)
