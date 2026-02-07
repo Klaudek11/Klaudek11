@@ -1,4 +1,4 @@
-#About Me:
+## About Me:
 Hey, I'm Klaudiusz. <br>
 Im: Junior PL/SQL Oracle Developer & Angular Developer + Mobile App / Flutter pasionate
 
